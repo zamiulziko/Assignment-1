@@ -2,8 +2,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1 {
-    font-size: 50px;
+.header-text {
+    font-size: 30px;
     color: white;
     line-height: 20px;
 
@@ -16,7 +16,7 @@ h1 {
 .top-banner {
     text-align: center;
     background-image: url(images/donation13.jpg);
-    height: 500px;
+    height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -35,7 +35,11 @@ h1 {
 }
 
 .banner {
-    padding-top: 20px;
+    padding-top: 30px;
+}
+
+h1 {
+    font-size: 30px;
 }
 
 .donate {
@@ -46,6 +50,7 @@ h1 {
 .donate-amount {
     display: flex;
     justify-content: center;
+    padding-top: 30px;
 
 }
 
@@ -53,4 +58,13 @@ h1 {
     padding: 20px 40px;
     border: 10px solid white;
     background-color: whitesmoke;
+}
+
+.other-amount {
+    padding-top: 50px;
+    color: wheat;
+}
+
+.dashed {
+    width: 60%;
 }
