@@ -45,11 +45,12 @@ h1 {
 
 .donate-amount {
     display: flex;
+    justify-content: center;
 
 }
 
 .amount {
     padding: 20px 40px;
-    border: 20px;
-
+    border: 10px solid white;
+    background-color: whitesmoke;
 }
