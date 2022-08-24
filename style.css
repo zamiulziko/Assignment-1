@@ -108,6 +108,28 @@ h1 {
     color: white;
     font-size: 20px;
     border-radius: 5px;
+}
 
+.get-my-update {
+    display: flexbox;
+    padding-top: 100px;
+}
+
+.get-my-update-text {
+    text-align: center;
+}
+
+.subscribe-form {
+    display: flex;
+    margin: 10px 400px 10px;
+}
+
+footer {
+    background-color: black;
+    font-size: medium;
+    color: brown;
+    text-align: center;
+    padding: 30px 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
