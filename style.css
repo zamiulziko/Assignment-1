@@ -44,14 +44,14 @@ h1 {
 
 .donate {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
+    line-height: 20px;
 }
 
 .donate-amount {
     display: flex;
     justify-content: center;
     padding-top: 30px;
-
 }
 
 .amount {
@@ -61,10 +61,23 @@ h1 {
 }
 
 .other-amount {
-    padding-top: 50px;
+    padding-top: 30px;
     color: wheat;
 }
 
 .dashed {
     width: 60%;
+}
+
+.donate-plan {
+    display: flex;
+    padding: 50px;
+    margin-left: 100px;
+    text-align: justify;
+
+}
+
+.food-shelter-education {
+    margin: 0px 50px 0px;
+
 }
