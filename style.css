@@ -40,6 +40,7 @@ body {
 
 h1 {
     font-size: 30px;
+    line-height: 20px;
 }
 
 .donate {
@@ -79,5 +80,34 @@ h1 {
 
 .food-shelter-education {
     margin: 0px 50px 0px;
+
+}
+
+.contribute {
+    display: flex;
+    padding-top: 100px;
+}
+
+.contribute-text {
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 80px;
+
+}
+
+
+.contribute-banner {
+    padding-right: 100px;
+
+}
+
+.contribute-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+
 
 }
